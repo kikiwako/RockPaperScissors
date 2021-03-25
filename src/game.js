@@ -5,7 +5,7 @@ const SCISSOR = "scissors";
 
 const TIE = "It's a tie!\n\n¯\\(°_o)/¯";
 const WIN = "You win!\n\no(^▽^)o";
-const LOST = "You lost!\n\n(°ロ°)";
+const LOST = "You lost!\n\nᕦ(òロó)ᕤ";
 const CHOOSE = "Choose your move!\n\n(◠‿◠)";
 
 const moves = [ROCK, PAPER, SCISSOR];
