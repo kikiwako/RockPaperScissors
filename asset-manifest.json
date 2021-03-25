@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RockPaperScissors/static/css/main.30c50530.chunk.css",
+    "main.js": "/RockPaperScissors/static/js/main.a120c68c.chunk.js",
+    "main.js.map": "/RockPaperScissors/static/js/main.a120c68c.chunk.js.map",
+    "runtime-main.js": "/RockPaperScissors/static/js/runtime-main.017e7a79.js",
+    "runtime-main.js.map": "/RockPaperScissors/static/js/runtime-main.017e7a79.js.map",
+    "static/js/2.1639c3fb.chunk.js": "/RockPaperScissors/static/js/2.1639c3fb.chunk.js",
+    "static/js/2.1639c3fb.chunk.js.map": "/RockPaperScissors/static/js/2.1639c3fb.chunk.js.map",
+    "static/js/3.005d554e.chunk.js": "/RockPaperScissors/static/js/3.005d554e.chunk.js",
+    "static/js/3.005d554e.chunk.js.map": "/RockPaperScissors/static/js/3.005d554e.chunk.js.map",
+    "index.html": "/RockPaperScissors/index.html",
+    "static/css/main.30c50530.chunk.css.map": "/RockPaperScissors/static/css/main.30c50530.chunk.css.map",
+    "static/js/2.1639c3fb.chunk.js.LICENSE.txt": "/RockPaperScissors/static/js/2.1639c3fb.chunk.js.LICENSE.txt",
+    "static/media/paper.f1b34ebe.webp": "/RockPaperScissors/static/media/paper.f1b34ebe.webp",
+    "static/media/question.3cdfce9a.webp": "/RockPaperScissors/static/media/question.3cdfce9a.webp",
+    "static/media/rock.355461aa.webp": "/RockPaperScissors/static/media/rock.355461aa.webp",
+    "static/media/scissors.02e98f2a.webp": "/RockPaperScissors/static/media/scissors.02e98f2a.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.017e7a79.js",
+    "static/js/2.1639c3fb.chunk.js",
+    "static/css/main.30c50530.chunk.css",
+    "static/js/main.a120c68c.chunk.js"
+  ]
+}
